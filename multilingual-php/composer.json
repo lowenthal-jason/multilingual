@@ -1,0 +1,11 @@
+{
+    "name": "jlowenthal/multilinugal_php",
+    "description": "Thing",
+    "authors": [
+        {
+            "name": "Jason Lowenthal",
+            "email": "jason@businessofengineering.com"
+        }
+    ],
+    "require": {}
+}
